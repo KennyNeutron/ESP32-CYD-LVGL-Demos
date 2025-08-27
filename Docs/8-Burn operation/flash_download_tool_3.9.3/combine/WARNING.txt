@@ -1,0 +1,1 @@
+H:\JYC-2023\2.8inch_ESP32-2432S028R - jyc\8-Burn operation\flash_download_tool_3.9.3\bin\bootloader_dio_80m.bin has CONFLICTS with other firmware
